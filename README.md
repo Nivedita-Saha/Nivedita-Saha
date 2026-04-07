@@ -43,7 +43,7 @@ Fraud risk analysis using BigQuery SQL and Isolation Forest anomaly detection.
 PostgreSQL projects — schema design, CTEs, window functions, spatial distance queries (Haversine), and welfare alert logic across three analytical datasets.
 
 **[powerbi-portfolio](https://github.com/Nivedita-Saha/powerbi-portfolio)**  
-Four production Power BI dashboards — NHS performance, Education analytics, Carbon tracking, HR Analytics.
+Four production Power BI dashboards — NHS performance, Education analytics, Carbon tracking, HR Analytics (on-process).
 
 ---
 
