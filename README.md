@@ -13,7 +13,7 @@ Building learned, controllable, and interpretable systems: LLM-agent simulations
 
 | Area | Technologies |
 |------|-------------|
-| **Languages** | Python, SQL, R, JavaScript |
+| **Languages** | Python, SQL, JavaScript |
 | **ML and deep learning** | PyTorch, scikit-learn, CNNs, U-Net, Neural ODE, Graph Neural Networks, XGBoost |
 | **Multi-agent and simulation** | LLM agents, agent-based modelling (Mesa), reinforcement learning (PPO, Stable-Baselines3), Gymnasium, Monte Carlo |
 | **LLM tooling** | Ollama, Groq, retrieval-augmented generation, ChromaDB, quantisation |
