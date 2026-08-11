@@ -101,32 +101,32 @@
 Featured Projects
 <!-- HOW TO ADD EACH FIGURE: 1. Open the figure in the repo on GitHub (e.g. the results/ folder), right-click the image, "Copy Image Address". 2. Paste that URL in place of the REPLACE_WITH_IMAGE_PATH line below. 3. If a project has no figure yet, just delete its <p align="center">...</p> image block. -->
 async-agent-message-bus
-<p align="center"> <img width="600" alt="async-agent-message-bus figure" src="https://raw.githubusercontent.com/Nivedita-Saha/async-agent-message-bus/main/results/REPLACE_WITH_IMAGE_PATH.png" /> </p>
+<p align="center"> <img width="600" alt="async-agent-message-bus figure" src="assets/async.png" /> </p>
 
 Async multi-agent LLM simulation engine with structured message-passing between dozens of concurrent agents, demonstrated on a hybrid-threat disinformation scenario. A single-lexicon metric reported the false narrative as dead; a two-lexicon measure caught it mutating into a generalised distrust that saturated every agent. → View repository
 
 theory-of-mind-reputation-engine
-<p align="center"> <img width="600" alt="theory-of-mind-reputation-engine figure" src="https://raw.githubusercontent.com/Nivedita-Saha/theory-of-mind-reputation-engine/main/REPLACE_WITH_IMAGE_PATH.png" /> </p>
+<p align="center"> <img width="600" alt="theory-of-mind-reputation-engine figure" src="assets/tom.png" /> </p>
 
 A multi-agent commons simulation where each LLM agent tracks reputation and trust through an explicit, typed theory-of-mind layer. The engine isolates the exploiter, yet the commons still collapses — reputation without enforcement is not enough. → View repository
 
 tumour-immune-twin
-<p align="center"> <img width="600" alt="tumour-immune-twin figure" src="https://raw.githubusercontent.com/Nivedita-Saha/tumour-immune-twin/main/REPLACE_WITH_IMAGE_PATH.png" /> </p>
+<p align="center"> <img width="600" alt="tumour-immune-twin figure" src="assets/tumour.png" /> </p>
 
 A controllable digital twin of tumour-immune dynamics: a neural surrogate of a mechanistic cancer model, steered by a reinforcement-learning controller toward a healthy equilibrium. → View repository
 
 cardiac-mri-trustworthy
-<p align="center"> <img width="600" alt="cardiac-mri-trustworthy figure" src="https://raw.githubusercontent.com/Nivedita-Saha/cardiac-mri-trustworthy/main/REPLACE_WITH_IMAGE_PATH.png" /> </p>
+<p align="center"> <img width="600" alt="cardiac-mri-trustworthy figure" src="assets/cardiac.png" /> </p>
 
 A trustworthy cardiac MRI pipeline, from segmentation to explainable, uncertainty-aware diagnosis, evaluated across scanner vendors. → View repository
 
 cell-cell-gnn
-<p align="center"> <img width="600" alt="cell-cell-gnn figure" src="https://raw.githubusercontent.com/Nivedita-Saha/cell-cell-gnn/main/REPLACE_WITH_IMAGE_PATH.png" /> </p>
+<p align="center"> <img width="600" alt="cell-cell-gnn figure" src="assets/gnn.png" /> </p>
 
 A controlled study of graph neural networks for cell-type classification on breast-cancer tissue, with an honest finding: a feature-only baseline beats GCN and GAT under high label homophily. → View repository
 
 semg-edge-ai
-<p align="center"> <img width="600" alt="semg-edge-ai figure" src="https://raw.githubusercontent.com/Nivedita-Saha/semg-edge-ai/main/REPLACE_WITH_IMAGE_PATH.png" /> </p>
+<p align="center"> <img width="600" alt="semg-edge-ai figure" src="assets/semg.png" /> </p>
 
 Compressing a 1D-CNN for wearable sEMG gesture recognition through quantisation, pruning, and knowledge distillation, benchmarked on accuracy, model size, and inference latency. → View repository
 
