@@ -18,7 +18,7 @@
 
 ---
 
-## Skills
+##  Skills
 
 **Languages**
 
@@ -70,12 +70,7 @@
 
 ---
 
-## 📊 My Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nivedita-Saha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nivedita-Saha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-</p>
+##  Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Nivedita-Saha&theme=tokyonight&hide_border=true" alt="streak" />
@@ -83,7 +78,7 @@
 
 ---
 
-## 📈 Contributions Graph
+##  Contributions Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nivedita-Saha&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
@@ -91,7 +86,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <picture>
@@ -103,7 +98,7 @@
 
 ---
 
-## Featured Projects
+##  Featured Projects
 
 ### async-agent-message-bus
 Async multi-agent LLM simulation engine with structured message-passing between dozens of concurrent agents, demonstrated on a hybrid-threat disinformation scenario.
