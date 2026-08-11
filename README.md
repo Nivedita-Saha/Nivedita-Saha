@@ -12,13 +12,13 @@
 
 ---
 
-## 📫 How to reach me
+## How to reach me
 
 📧 **Email:** sahanivedita10@gmail.com &nbsp;|&nbsp; 🌐 **Portfolio:** [nivsaha.com](https://nivsaha.com) &nbsp;|&nbsp; 💼 **LinkedIn:** [Nivedita Saha](https://www.linkedin.com/in/) &nbsp;|&nbsp; 💻 **GitHub:** [@Nivedita-Saha](https://github.com/Nivedita-Saha)
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Languages**
 
@@ -103,29 +103,29 @@
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### 📨 async-agent-message-bus
+### async-agent-message-bus
 Async multi-agent LLM simulation engine with structured message-passing between dozens of concurrent agents, demonstrated on a hybrid-threat disinformation scenario.
 → [View repository](https://github.com/Nivedita-Saha/async-agent-message-bus)
 
-### 🤝 theory-of-mind-reputation-engine
+### theory-of-mind-reputation-engine
 A multi-agent commons simulation where each LLM agent tracks reputation and trust through an explicit, typed theory-of-mind layer. The engine isolates the exploiter, yet the commons still collapses — reputation without enforcement is not enough.
 → [View repository](https://github.com/Nivedita-Saha/theory-of-mind-reputation-engine)
 
-### 🧬 tumour-immune-twin
+### tumour-immune-twin
 A controllable digital twin of tumour-immune dynamics: a neural surrogate of a mechanistic cancer model, steered by a reinforcement-learning controller toward a healthy equilibrium.
 → [View repository](https://github.com/Nivedita-Saha/tumour-immune-twin)
 
-### 🫀 cardiac-mri-trustworthy
+### cardiac-mri-trustworthy
 A trustworthy cardiac MRI pipeline, from segmentation to explainable, uncertainty-aware diagnosis, evaluated across scanner vendors.
 → [View repository](https://github.com/Nivedita-Saha/cardiac-mri-trustworthy)
 
-### 🕸️ cell-cell-gnn
+### cell-cell-gnn
 A controlled study of graph neural networks for cell-type classification on breast-cancer tissue, with an honest finding: a feature-only baseline beats GCN and GAT under high label homophily.
 → [View repository](https://github.com/Nivedita-Saha/cell-cell-gnn)
 
-### ⌚ semg-edge-ai
+### semg-edge-ai
 Compressing a 1D-CNN for wearable sEMG gesture recognition through quantisation, pruning, and knowledge distillation, benchmarked on accuracy, model size, and inference latency.
 → [View repository](https://github.com/Nivedita-Saha/semg-edge-ai)
 
